@@ -1,0 +1,206 @@
+[
+    {
+        "id" : "1",
+        "image":"fr-munster.jpg",
+        "name":"Munster",
+        "region":"Alsace-lorraine",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le fromage Munster a une forme de petit disque de 12 à 14 cm de diamètre et de 3 à 4 cm d'épaisseur. Sa croûte est orangée à brune et légèrement humide. Sa pâte est blanche, molle et crémeuse, avec un goût prononcé. Le Munster est protégé par une AOC (Appellation d'Origine Contrôlée) depuis 1969."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le fromage Munster a une saveur forte et piquante, avec un arôme caractéristique de la croûte lavée. Sa texture est fondante et crémeuse, presque liquide à l'intérieur. Le Munster est souvent dégusté accompagné de pain de seigle et d'un verre de bière ou de vin blanc sec."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le fromage Munster tire son nom de la ville de Munster, située dans la région d'Alsace-Lorraine en France. Sa production remonte au 7ème siècle, lorsque les moines de l'abbaye de Munster commencèrent à fabriquer le fromage à partir du lait de leurs vaches. Le Munster est traditionnellement produit dans les fermes de la région, mais sa fabrication s'est progressivement industrialisée. Aujourd'hui, la majorité du Munster produit est fabriqué par des fromageries industrielles, bien que certains producteurs artisanaux continuent à le fabriquer selon des méthodes traditionnelles."
+            }
+        }   
+    },
+    {
+        "id" : "2",
+        "image":"fr-abondance.jpg",
+        "name":"Abondance",
+        "region":"Alpes",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le fromage Abondance se présente sous la forme d'une meule de 10 à 12 kg. Il a une croûte jaune à brun clair et une pâte jaune pâle. La meule a un diamètre de 30 à 40 cm et une hauteur de 8 à 10 cm. Le fromage Abondance est protégé par une AOC (Appellation d'Origine Contrôlée) depuis 1990."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le fromage Abondance est un fromage à pâte pressée non cuite, qui a un goût fruité et légèrement noiseté. Il est doux et crémeux en bouche, avec une texture lisse et souple. Le fromage Abondance se marie bien avec des vins rouges comme le Beaujolais ou le Côtes du Rhône, ainsi qu'avec des vins blancs comme le Chignin ou le Roussette."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le fromage Abondance tire son nom de la vallée d'Abondance, située dans les Alpes françaises. Il est produit à partir du lait cru de vache de race Abondance, qui est une race locale de vache. La fabrication du fromage Abondance remonte au Moyen Âge, et était traditionnellement réalisée par les moines de l'abbaye d'Abondance. Aujourd'hui, la production de fromage Abondance est réalisée par des producteurs locaux dans la région de la Savoie, en respectant les méthodes traditionnelles de fabrication."
+            }
+        }   
+    },
+    {
+        "id" : "3",
+        "image":"fr-bleu-d-auvergne.jpg",
+        "name":"Bleu-d'Auvergne",
+        "region":"Auvergne",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le Bleu d'Auvergne a une forme cylindrique, avec un diamètre de 20 à 25 cm et une hauteur de 8 à 10 cm. Sa croûte est épaisse, brune et marbrée de moisissures naturelles blanches. Sa pâte est crémeuse et persillée de bleu-vert, avec une texture fondante en bouche. Le Bleu d'Auvergne est protégé par une AOC (Appellation d'Origine Contrôlée) depuis 1975."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Bleu d'Auvergne a un goût fort et piquant, avec des arômes de champignons et de noisettes. Sa texture est crémeuse et fondante en bouche, avec une persistance en bouche caractéristique des fromages persillés. Il se marie bien avec des vins rouges comme le Cahors ou le Saint-Emilion, ou avec des vins blancs doux comme le Sauternes ou le Gewurztraminer."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Bleu d'Auvergne tire son nom de la région d'Auvergne, située dans le Massif Central en France. Sa production remonte au 19ème siècle, lorsque des fermiers locaux commencèrent à introduire de la moisissure dans leur fromage. Au fil des ans, la fabrication du Bleu d'Auvergne s'est perfectionnée, avec l'utilisation de cultures sélectionnées pour obtenir la moisissure caractéristique du fromage. Aujourd'hui, le Bleu d'Auvergne est produit dans des laiteries artisanales et industrielles de la région, en respectant les méthodes de fabrication traditionnelles."
+            }
+        }   
+    },
+    {
+        "id" : "4",
+        "image":"fr-valencay.jpg",
+        "name":"Valençay",
+        "region":"Valençay",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le fromage Valençay a une forme pyramidale tronquée, avec une hauteur de 7 à 8 cm et une base carrée d'environ 8 cm de côté. Sa croûte est fine et cendrée, avec une couleur gris-bleu foncé. Sa pâte est dense et blanche, avec un goût de noisette. Le Valençay est protégé par une AOC (Appellation d'Origine Contrôlée) depuis 1998."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Valençay a un goût de noisette doux et crémeux, avec une texture ferme et fondante en bouche. Sa croûte cendrée ajoute une légère saveur salée et de fumée. Le fromage est souvent dégusté accompagné de pain de campagne et de vin blanc sec."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Valençay a une histoire intéressante. À l'origine, il avait une forme de pyramide entière. Cependant, en 1810, le général français Talleyrand, qui avait récemment été exilé de Russie, est revenu en France et a présenté un Valençay à Napoléon Bonaparte. Le fromage était considéré comme une insulte envers le général, car il rappelait la forme de son chapeau, qui avait été piétiné par les cosaques russes. Le fromage a été tronqué pour avoir une forme plus discrète, en souvenir de cet événement. Aujourd'hui, le Valençay est fabriqué dans des laiteries artisanales et industrielles de la région, en respectant les méthodes de fabrication traditionnelles."
+            }
+        }   
+    },
+    {
+        "id" : "5",
+        "image":"fr-chaource.jpg",
+        "name":"Chaource",
+        "region":"l'Aube",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le Chaource est fabriqué dans les régions de Champagne et de Bourgogne, en France. Il a une forme cylindrique, avec un diamètre de 10 à 11 cm et une hauteur de 3 à 4 cm. Sa croûte est blanche et recouverte d'un duvet blanc poudreux, tandis que sa pâte est blanche et onctueuse. Le Chaource est protégé par une AOC (Appellation d'Origine Contrôlée) depuis 1996."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Chaource a un goût crémeux, doux et légèrement acide. Sa texture est lisse et fondante en bouche. Il est souvent servi en apéritif, en salade ou comme fromage de dessert, accompagné de pain de campagne et de vin blanc sec."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Chaource tire son nom du village de Chaource, situé dans l'Aube, en Champagne. Sa fabrication remonte au XIVe siècle, et il était autrefois fabriqué par les moines cisterciens de l'abbaye de Pontigny. Aujourd'hui, le Chaource est fabriqué dans des laiteries artisanales et industrielles de la région, en respectant les méthodes de fabrication traditionnelles."
+            }
+        }   
+    },
+    {
+        "id" : "6",
+        "image":"fr-maroilles.jpg",
+        "name":"Maroilles",
+        "region":"Thiérache",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le Maroilles est produit dans le Nord de la France, dans les départements du Nord, de l'Aisne et de la Somme. Il est fabriqué en forme de disque, avec un diamètre de 13 à 14 cm et une hauteur de 3 à 4 cm. Sa croûte est lavée à l'eau salée, ce qui lui donne une couleur orange-rouge caractéristique, tandis que sa pâte est jaune pâle et moelleuse. Le Maroilles est protégé par une AOP (Appellation d'Origine Protégée) depuis 1976."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Maroilles a un goût puissant, salé et légèrement amer, avec une odeur forte et piquante. Sa texture est crémeuse et fondante en bouche. Il est souvent consommé en fin de repas, accompagné de pain de campagne et de bière ou de vin rouge."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Maroilles tire son nom de la ville de Maroilles, située dans le Nord de la France. Sa fabrication remonte au Moyen Âge, et il était autrefois produit dans les monastères de la région. Aujourd'hui, le Maroilles est fabriqué dans des laiteries artisanales et industrielles de la région, en respectant les méthodes de fabrication traditionnelles. Il est également exporté dans de nombreux pays, où il est apprécié pour son goût fort et caractéristique."
+            }
+        }   
+    },
+    {
+        "id" : "7",
+        "image":"fr-banon.jpg",
+        "name":"Banon",
+        "region":"Alpes-de-Haute-Provence",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le Banon est produit dans le sud de la France, principalement dans les départements des Alpes-de-Haute-Provence et de la Drôme. Il est fabriqué en forme de petit disque plat, avec un diamètre d'environ 7 cm et une hauteur de 2 à 3 cm. Sa croûte est recouverte de feuilles de châtaignier, qui sont maintenues en place par une ficelle de raphia. Sa pâte est blanche et crémeuse, avec une texture fondante. Le Banon est protégé par une AOP (Appellation d'Origine Protégée) depuis 2003."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Banon a un goût doux et subtil, avec des notes de noisette et de châtaigne provenant des feuilles de châtaignier qui l'entourent. Sa texture est crémeuse et fondante en bouche. Il est souvent consommé en fin de repas, accompagné de pain de campagne et d'un vin rouge ou rosé de la région."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Banon tire son nom du village de Banon, situé dans les Alpes-de-Haute-Provence. Sa fabrication remonte au moins au XVIIe siècle, et il était autrefois produit dans les fermes de la région pour une consommation locale. Aujourd'hui, le Banon est fabriqué dans des laiteries artisanales de la région, en respectant les méthodes de fabrication traditionnelles. Il est également exporté dans de nombreux pays, où il est apprécié pour son goût doux et sa présentation originale avec des feuilles de châtaignier."
+            }
+        }   
+    }, 
+    {
+        "id" : "8",
+        "image":"fr-charolais.jpg",
+        "name":"Charolais",
+        "region":"Bourgogne-Franche-Comté",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le Charolais est produit dans le département de la Saône-et-Loire, en Bourgogne-Franche-Comté. Il est fabriqué en forme de cylindre plat, avec un diamètre d'environ 20 cm et une hauteur de 3 à 4 cm. Sa croûte est lavée avec de l'eau salée et/ou du vin blanc, ce qui lui donne une couleur orangée. Sa pâte est souple et onctueuse, de couleur jaune clair à blanc. Le Charolais est protégé par une AOP (Appellation d'Origine Protégée) depuis 2010."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Charolais a un goût doux et fruité, avec des notes de noisette et de beurre. Sa texture est souple et fondante en bouche. Il se marie bien avec des fruits frais ou secs, du pain de campagne et des vins rouges de la région, tels que le Mercurey ou le Givry."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Charolais tire son nom de la ville de Charolles, située dans la région d'origine du fromage. Sa fabrication remonte au Moyen Âge, où il était produit dans les fermes pour une consommation locale. Au fil du temps, sa production s'est professionnalisée et il est aujourd'hui fabriqué dans des laiteries artisanales de la région, en respectant les méthodes de fabrication traditionnelles. Le Charolais est également exporté dans d'autres pays, où il est apprécié pour son goût délicat et sa texture fondante."
+            }
+        }   
+    },
+    {
+        "id" : "9",
+        "image":"fr-cantal.jpg",
+        "name":"Cantal",
+        "region":"Le Cantal",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le Cantal est produit dans la région d'Auvergne-Rhône-Alpes, dans les départements du Cantal, de l'Aveyron et du Lot. Il se présente sous forme de meules cylindriques d'un diamètre de 30 à 40 cm et d'une hauteur de 15 à 20 cm. Sa croûte est épaisse, sèche et rugueuse, de couleur jaune à brune. Sa pâte est dense, friable et de couleur jaune pâle à blanc. Le Cantal est protégé par une AOP (Appellation d'Origine Protégée) depuis 1956."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Cantal a un goût franc et parfumé, avec des notes de noisette et de beurre. Sa texture est ferme et fondante en bouche. Il se marie bien avec des fruits secs, du pain de campagne et des vins rouges de la région, tels que le Marcillac ou le Cahors."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Cantal tire son nom de la région dans laquelle il est produit. Sa fabrication remonte au Moyen Âge, où il était produit dans les fermes pour une consommation locale. Au fil du temps, sa production s'est professionnalisée et il est aujourd'hui fabriqué dans des laiteries de la région, en respectant les méthodes de fabrication traditionnelles. Le Cantal est également exporté dans d'autres pays, où il est apprécié pour son goût authentique et sa texture typique."
+            }
+        }   
+    },
+    {
+        "id" : "10",
+        "image":"fr-chavignol.jpg",
+        "name":"Chavignol",
+        "region":"La Loire",
+        "description": {
+            "content-1" : {
+                "sub-title" : "Présentation",
+                "paragraph" : "Le Chavignol se présente sous la forme de petits palets cylindriques d'environ 6 cm de diamètre et 4 cm de hauteur. Sa croûte est fine, blanche et parfois légèrement bleutée. Sa pâte est dense, crémeuse et de couleur blanche. Le Chavignol est protégé par une AOP (Appellation d'Origine Protégée) depuis 1976."
+            },
+            "content-2" : {
+                "sub-title" : "Dégustation",
+                "paragraph" : "Le Chavignol a un goût de chèvre prononcé et caractéristique, avec des notes de noisette et de sous-bois. Sa texture est crémeuse et fondante en bouche. Il peut être dégusté nature, accompagné d'un bon pain de campagne, ou utilisé en cuisine pour agrémenter des salades, des plats chauds ou des fromages fondus."
+            },
+            "content-3" : {
+                "sub-title" : "Origine",
+                "paragraph" : "Le Chavignol doit son nom à un village du même nom situé dans la région de la Loire. Sa fabrication remonte au moins au XIVe siècle, et il est toujours produit de manière artisanale dans cette région, en respectant les méthodes de fabrication traditionnelles. Le lait utilisé pour sa fabrication provient de chèvres élevées en plein air dans les prés de la région, ce qui contribue à la qualité et à la saveur typique du fromage. Le Chavignol est également exporté dans d'autres pays, où il est apprécié pour sa texture crémeuse et son goût de chèvre unique."
+            }
+        }   
+    }
+    
+]
+
+
+    
